@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying in **Monash University**
 
-- 🌱 I’m currently learning **Pytorch, Quant**
+- 🌱 I’m currently learning **Pytorch, Quant，LangChain, RAG, Agent**
 
 - 📫 How to reach me **m506108@outlook.com**
 
