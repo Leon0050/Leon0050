@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Quant, LangChain, RAG, Agent, skill**
 
-- 📫 How to reach me **m506108@outlook.com**
+- 📫 How to reach me **clm506108@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
